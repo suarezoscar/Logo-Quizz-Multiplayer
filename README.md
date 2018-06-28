@@ -1,5 +1,8 @@
 # MANUAL DE USUARIO
 
+## Manual en formato PDF con ímagenes
+https://github.com/suarezoscar/logoquizz/blob/master/Manual%20de%20usuario%20Logo%20Quiz.pdf
+
 ## Logo Quizz
 
 ### INTRODUCCIÓN AL JUEGO.
