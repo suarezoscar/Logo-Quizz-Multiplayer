@@ -1,0 +1,3 @@
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Server\bin\Debug\ServerLogoQuiz.exe.config
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Server\obj\Debug\ServerLogoQuiz.exe
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Server\obj\Debug\ServerLogoQuiz.pdb

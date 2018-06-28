@@ -1,0 +1,68 @@
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\bin\Debug\prueba_imagenes.exe.config
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\prueba_imagenes.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\prueba_imagenes.Form1.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\prueba_imagenes.Properties.Resources.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\bin\Debug\prueba_imagenes.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\prueba_imagenes\prueba_imagenes\bin\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe.config
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.Properties.Resources.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe.config
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.exe
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.pdb
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.pdb
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.Properties.Resources.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe.config
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.exe
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.exe
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\bin\Debug\prueba_imagenes.pdb
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\prueba_imagenes.Properties.Resources.resources
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Desktop\Proyecto_LogoQuiz\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe.config
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.pdb
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.exe
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.pdb
+C:\Users\oscar\Dropbox\Proyecto_LogoQuiz v2\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe.config
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.pdb
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.exe
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.pdb
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe.config
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.exe
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\ClienteLogoQuiz.pdb
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.exe
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\bin\Debug\ClienteLogoQuiz.pdb
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\prueba_imagenes.FormInstrucciones.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\dam227\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\oscar\Dropbox\DAM\PSRP\Proyecto_LogoQuiz v1.3\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
